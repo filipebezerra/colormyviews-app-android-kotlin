@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Color my views is a toy app [applying](https://developer.android.com/training/constraint-layout) ConstraintLayout [concepts](https://developer.android.com/reference/androidx/constraintlayout/widget/ConstraintLayout).
+Color my views is a toy app [applying](https://developer.android.com/training/constraint-layout) ConstraintLayout [concepts](https://developer.android.com/reference/androidx/constraintlayout/widget/ConstraintLayout) while I've been continuously learning Android Kotlin Development at Udacity Nanodegree.
 
 ## Concepts covered
 
